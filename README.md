@@ -41,7 +41,11 @@ df.isnull().sum()
 
 ```
 # OUPUT:
-![output1](https://user-images.githubusercontent.com/94187572/161429862-a6a15e8b-31f4-405a-b13c-2785565f771b.jpeg)
+![output1](https://user-images.githubusercontent.com/94187572/161429915-4ba9cf88-90be-4edd-94ab-fbaa7a32f1fb.jpeg)
+![output2](https://user-images.githubusercontent.com/94187572/161429921-465e72b2-b236-4b7d-a804-f1ec69ce1072.jpeg)
+![output3](https://user-images.githubusercontent.com/94187572/161429930-3e237e2e-135a-4c24-8e98-69543f59feb3.jpeg)
+![output4](https://user-images.githubusercontent.com/94187572/161429938-7b8bea41-d26c-43f8-9b8b-e2e63e786624.jpeg)
+
 
 
 
