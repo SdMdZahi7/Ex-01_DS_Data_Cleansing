@@ -41,10 +41,8 @@ df.isnull().sum()
 
 ```
 # OUPUT:
- ![output](output1.jpeg) 
-![output](output2.jpeg) 
-![output](output3.jpeg) 
-![output](output4.jpeg) 
+![output1](https://user-images.githubusercontent.com/94187572/161429862-a6a15e8b-31f4-405a-b13c-2785565f771b.jpeg)
+
 
 
 # RESULT:
